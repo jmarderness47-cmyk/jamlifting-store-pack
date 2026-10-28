@@ -1,0 +1,27 @@
+JAM Lifting — custom product page
+Upload these in App Store Connect. This pack does not submit them for you.
+
+Custom product page
+1. App Store Connect → Apps → JAM Lifting → Distribution → Product Page → Custom Product Pages → Create.
+2. Name: Log the set
+3. Promotional text (170 characters max):
+Log the set. The rest ring counts in the corner, last time's weight is already filled, and the plates tell you what to load.
+4. Screenshots, in this order, for iPhone 6.9-inch (1320 × 2868):
+   screenshot-today-1320x2868.png
+   screenshot-rest-1320x2868.png
+   screenshot-progress-1320x2868.png
+   screenshot-plates-1320x2868.png
+   screenshot-door-1320x2868.png
+5. App Preview: JAM-Lifting-App-Preview-886x1920.mp4
+   15 seconds, 886 × 1920, H.264, 30 fps, silent stereo audio so it passes Apple's audio rule.
+   Previews autoplay muted.
+
+Product page header and search (Asset Library, iOS 27 and later)
+- product-page-header-3840x1646.png — 21:9 header
+- search-results-3840x2560.png — 3:2 search result
+App Store Connect → Apps → JAM Lifting → Asset Library.
+
+Promo film (not an App Preview size)
+JAM-Lifting-Promo-9x16.mp4 is the cinematic cut. Do not upload it as the iPhone App Preview. Use the 886 × 1920 file for that.
+
+The 4.8 rating on any mock listing is sample copy. Do not paste a rating you do not have.
